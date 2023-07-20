@@ -1,0 +1,18 @@
+{
+  "fName" : "Chandradip",
+  "lName" : "Shivankar",
+  "address" : [
+    {
+      "city" : "Buldhana",
+      "locality" : "Sundarkhed",
+      "pinCode" : 421201,
+      "isRequired" : true
+    },
+    {
+      "city" : "Jafrabad",
+      "locality" : "Janjalwadi",
+      "pinCode" : 421206,
+      "isRequired" : false
+    }
+  ]
+}
